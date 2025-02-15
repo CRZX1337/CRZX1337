@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
 [![Telegram](https://img.shields.io/badge/Telegram-@CRZX1337-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CRZX1337)
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&theme=dark&show_icons=true)](https://github.com/CRZX1337)  <-- GitHub Stats Card Added HERE
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&theme=dark&show_icons=true)](https://github.com/CRZX1337)
 
 A passionate 22-year-old coder and tech enthusiast from Germany, diving deep into the digital world. I'm all about building things, automating tasks, and exploring the fascinating realms of cybersecurity and open source.
 
