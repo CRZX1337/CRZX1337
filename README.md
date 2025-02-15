@@ -1,4 +1,4 @@
-## 👋 CryZuX - Developer Profile 👋
+## 👋 Welcome on my Profile 👋
 
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
 [![Telegram](https://img.shields.io/badge/Telegram-@CRZX1337-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CRZX1337)
