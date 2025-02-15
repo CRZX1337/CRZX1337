@@ -7,10 +7,12 @@ A passionate 22-year-old coder and tech enthusiast from Germany, diving deep int
 
 **What you'll find on my GitHub:**
 
-*   **Scripts & Tools:**  Small utilities and scripts to automate workflows and solve everyday problems (like the [Termux-Start-Script](https://github.com/CRZX1337/Termux-Start-Script) 😉).
-*   **Security Explorations:**  Projects related to cybersecurity, ethical hacking (always ethical!), and exploring system security.
-*   **Android ROMs & Kernels:** Experimenting with custom Android builds and kernel modifications.
-*   **VESC Controller Scripts:** Lisp scripting for VESC (Vedder Electronic Speed Controller) projects.
+*   **[GlobalTalk-TranslatorBot](https://github.com/CRZX1337/GlobalTalk-TranslatorBot):**  A powerful Telegram bot for seamless translation of forwarded messages, supporting multiple languages. Break language barriers in your chats!
+*   **[HYDRA-SPAMMER-TELEGRAM](https://github.com/CRZX1337/HYDRA-SPAMMER-TELEGRAM):**  Command-line tool to flood Telegram with messages - for "educational purposes." (Use responsibly!). Explore message flooding techniques.
+*   **[Keybox-Generator-Telegram-Bot](https://github.com/CRZX1337/Keybox-Generator-Telegram-Bot):**  A Telegram bot to generate secure keyboxes.  Enhance your security with on-demand key generation.
+*   **[Termux-Start-Script](https://github.com/CRZX1337/Termux-Start-Script):**  One-click script to instantly set up your Termux environment with essential tools and customizations.  Get your terminal ready in seconds!
+*   **Android ROMs & Kernels:** Experimenting with custom Android builds and kernel modifications (projects coming soon!).
+*   **VESC Controller Scripts:** Lisp scripting for VESC (Vedder Electronic Speed Controller) projects (projects coming soon!).
 *   **Open Source Contributions (In Progress):**  Learning to contribute back to the open-source community and building projects that are free and accessible.
 *   **Learning Journey:**  This profile is also a reflection of my ongoing learning journey in the tech world. Expect to see projects evolve and new things popping up as I expand my skills!
 
@@ -31,3 +33,4 @@ A passionate 22-year-old coder and tech enthusiast from Germany, diving deep int
 *   **Telegram:** [t.me/CRZX1337](https://t.me/CRZX1337) - Let's connect and chat about tech!
 
 Thanks for stopping by! Feel free to explore my repositories and let me know what you think. Let's build something awesome! 🚀
+
