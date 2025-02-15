@@ -1,9 +1,4 @@
-## <span id="headline-text">👋 Hey, I'm CryZuX! 👋</span>
-
-<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
-<script>
-  new TypeIt("#headline-text", { speed: 50, waitUntilVisible: true }).go();
-</script>
+## <span style="color: #00FFFF;">👋 Hey, I'm CryZuX! 👋</span>  <-- Cyan Headline
 
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
 [![Telegram](https://img.shields.io/badge/Telegram-@CRZX1337-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CRZX1337)
@@ -12,28 +7,28 @@
 
 22-year-old coder from Germany. Building things, automating, exploring cybersecurity & open source.
 
-**Projects:**
+<h3 style="color: #FFA07A;">Projects:</h3>  <-- Salmon Section Heading
 
-*   **[GlobalTalk-TranslatorBot](https://github.com/CRZX1337/GlobalTalk-TranslatorBot):** Telegram translator bot.
-*   **[HYDRA-SPAMMER-TELEGRAM](https://github.com/CRZX1337/HYDRA-SPAMMER-TELEGRAM):** Telegram message flooder (educational).
-*   **[Keybox-Generator-Telegram-Bot](https://github.com/CRZX1337/Keybox-Generator-Telegram-Bot):** Secure keybox bot.
-*   **[Termux-Start-Script](https://github.com/CRZX1337/Termux-Start-Script):** One-click Termux setup.
+*   **<span style="color: #98FB98;">[GlobalTalk-TranslatorBot](https://github.com/CRZX1337/GlobalTalk-TranslatorBot)</span>:** Telegram translator bot.  <-- Light Green Project Name
+*   **<span style="color: #98FB98;">[HYDRA-SPAMMER-TELEGRAM](https://github.com/CRZX1337/HYDRA-SPAMMER-TELEGRAM)</span>:** Telegram message flooder (educational).  <-- Light Green Project Name
+*   **<span style="color: #98FB98;">[Keybox-Generator-Telegram-Bot](https://github.com/CRZX1337/Keybox-Generator-Telegram-Bot)</span>:** Secure keybox bot.  <-- Light Green Project Name
+*   **<span style="color: #98FB98;">[Termux-Start-Script](https://github.com/CRZX1337/Termux-Start-Script)</span>:** One-click Termux setup.  <-- Light Green Project Name
 *   **Android ROMs & Kernels:** (Coming Soon)
 *   **VESC Scripts:** (Coming Soon)
 
-**Tech:**
+<h3 style="color: #FFA07A;">Tech:</h3>  <-- Salmon Section Heading
 
-*   Python
-*   Cybersecurity
-*   Automation
-*   Linux
-*   Open Source
-*   Android
-*   VESC/Lisp
+*   <span style="color: #FFFFE0;">Python</span>  <-- Light Yellow Tech Keyword
+*   <span style="color: #FFFFE0;">Cybersecurity</span>  <-- Light Yellow Tech Keyword
+*   <span style="color: #FFFFE0;">Automation</span>  <-- Light Yellow Tech Keyword
+*   <span style="color: #FFFFE0;">Linux</span>  <-- Light Yellow Tech Keyword
+*   <span style="color: #FFFFE0;">Open Source</span>  <-- Light Yellow Tech Keyword
+*   <span style="color: #FFFFE0;">Android</span>  <-- Light Yellow Tech Keyword
+*   <span style="color: #FFFFE0;">VESC/Lisp</span>  <-- Light Yellow Tech Keyword
 
-**Connect:**
+<h3 style="color: #FFA07A;">Connect:</h3>  <-- Salmon Section Heading
 
-*   [YouTube](https://youtube.com/c/cryzux)
-*   [Telegram](https://t.me/CRZX1337)
+*   <a href="https://youtube.com/c/cryzux" style="color: #ADD8E6;">YouTube</a>  <-- Light Blue Link
+*   <a href="https://t.me/CRZX1337" style="color: #ADD8E6;">Telegram</a>  <-- Light Blue Link
 
 Thanks for visiting! Let's code! 🚀
