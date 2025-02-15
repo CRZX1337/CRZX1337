@@ -1,4 +1,13 @@
-## 👋 Hey there, I'm CryZuX! 👋
+## <span id="headline-text">👋 Hey there, I'm CryZuX! 👋</span>  <!-- Headline wrapped in <span> with id -->
+
+<script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script> 
+<script>
+  new TypeIt("#headline-text", { // Target the <span> element by its ID
+    speed: 50,          // Typing speed (adjust as desired, lower is faster)
+    waitUntilVisible: true, // Start animation only when headline is visible
+  })
+  .go(); // Start the animation
+</script>
 
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
 [![Telegram](https://img.shields.io/badge/Telegram-@CRZX1337-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CRZX1337)
