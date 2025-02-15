@@ -5,7 +5,7 @@
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&theme=dark&show_icons=true)](https://github.com/CRZX1337)
 
-A developer based in Germany, focused on crafting efficient solutions through automation and exploring the landscape of cybersecurity and open source technologies.  Dedicated to building robust and impactful projects.
+A developer based in Germany, focused on crafting efficient solutions through automation and exploring the landscape of cybersecurity and open source technologies.  Dedicated to building robust and impactful projects across various domains.
 
 ### Featured Projects:
 
@@ -16,9 +16,9 @@ A developer based in Germany, focused on crafting efficient solutions through au
 
 ### Technical Skills:
 
-*   **Programming Languages:** Python
-*   **Core Competencies:** Cybersecurity, Automation, Scripting
-*   **Platforms & Technologies:** Linux, Open Source Software, Android, VESC (Lisp)
+*   **Programming Languages:** Python, C, C++, Java, JavaScript, Lisp, HTML, CSS
+*   **Core Competencies:** Cybersecurity, Automation, Scripting, Web Development, Android Development, Kernel Development
+*   **Platforms & Technologies:** Linux, Open Source Software, Android, VESC
 
 ### Connect:
 
