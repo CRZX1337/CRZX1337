@@ -9,6 +9,7 @@ A developer based in Germany, focused on crafting efficient solutions through au
 
 ### Featured Projects:
 
+*  **[HorizonRevamped](https://github.com/CRZX1337/HorizonRevamped):** A simple Material You app for Android that makes flashing AnyKernel flashable zips easy. Effortlessly install custom kernels and enhance your Android experience.
 *   **[VESC-Scripts](https://github.com/CRZX1337/VESC-Scripts):** Enhanced VESC Functionality for Xiaomi and Ninebot Scooters via Lisp Scripting.
 *   **[GlobalTalk-TranslatorBot](https://github.com/CRZX1337/GlobalTalk-TranslatorBot):**  A multi-language Telegram bot designed for seamless translation of forwarded messages, enhancing communication across language barriers.
 *   **[HYDRA-SPAMMER-TELEGRAM](https://github.com/CRZX1337/HYDRA-SPAMMER-TELEGRAM):**  A command-line tool demonstrating message flooding techniques within Telegram, developed for educational and analytical purposes. (Note: Intended for responsible use).
