@@ -17,9 +17,9 @@ A developer based in Germany, focused on crafting efficient solutions through au
 
 ### Technical Skills:
 
-*   **Programming Languages:** Python, C, C++, Java, JavaScript, Lisp, HTML, CSS
+*   **Programming Languages:** Python, C, C++, Java,Kotlin
 *   **Core Competencies:** Cybersecurity, Automation, Scripting, Web Development, Android Development, Kernel Development
-*   **Platforms & Technologies:** Linux, Open Source Software, Android, VESC
+*   **Platforms & Technologies:** Linux, Open Source Software, Android,
 
 ### Connect:
 
