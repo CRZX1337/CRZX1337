@@ -9,6 +9,7 @@ A developer based in Germany, focused on crafting efficient solutions through au
 
 ### Featured Projects:
 
+*   **[DashTime](https://github.com/CRZX1337/DashTime):** 🚀 My best app: DashTime is a high-precision Android app that tracks vehicle acceleration performance using advanced GPS diagnostics and sensor data. It offers features like precise acceleration timing (0-60 mph/0-100 kmh), detailed performance analysis, dark/light themes, modern Material 3 design, and a demo mode for testing.
 *  **[HorizonRevamped](https://github.com/CRZX1337/HorizonRevamped):** A simple Material You app for Android that makes flashing AnyKernel flashable zips easy. Effortlessly install custom kernels and enhance your Android experience.
 *   **[HYDRA-SPAMMER-TELEGRAM](https://github.com/CRZX1337/HYDRA-SPAMMER-TELEGRAM):**  A command-line tool demonstrating message flooding techniques within Telegram, developed for educational and analytical purposes. (Note: Intended for responsible use).
 *   **[Keybox-Generator-Telegram-Bot](https://github.com/CRZX1337/Keybox-Generator-Telegram-Bot):**  A Telegram bot providing on-demand generation of secure keyboxes, aimed at improving digital security practices.
