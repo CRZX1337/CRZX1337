@@ -1,7 +1,7 @@
 ## 👋 Welcome on my Profile 👋
 
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
-[![Telegram](https://img.shields.io/badge/Telegram-@CRZX1337-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryzux)
+[![Telegram](https://img.shields.io/badge/Telegram-@cryzux-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryzux)
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&theme=dark&show_icons=true)](https://github.com/CRZX1337)
 
