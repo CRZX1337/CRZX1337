@@ -3,8 +3,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
 [![Telegram](https://img.shields.io/badge/Telegram-@cryzux-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryzux)
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&theme=dark&show_icons=true)](https://github.com/CRZX1337)
-
 A developer based in Germany, focused on crafting efficient solutions through automation and exploring the landscape of cybersecurity and open source technologies.  Dedicated to building robust and impactful projects across various domains.
 
 ### Featured Projects:
