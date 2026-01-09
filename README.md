@@ -9,16 +9,13 @@ A developer based in Germany, focused on crafting efficient solutions through au
 
 ### Featured Projects:
 
-*   **[DashTime](https://github.com/CRZX1337/DashTime):** DashTime is a high-precision Android app that tracks vehicle acceleration performance using advanced GPS diagnostics and sensor data. It offers features like precise acceleration timing (0-60 mph/0-100 kmh), detailed performance analysis, dark/light themes, modern Material 3 design, and a demo mode for testing.
-*  **[HorizonRevamped](https://github.com/CRZX1337/HorizonRevamped):** A simple Material You app for Android that makes flashing AnyKernel flashable zips easy. Effortlessly install custom kernels and enhance your Android experience.
-*   **[Keybox-Generator-Telegram-Bot](https://github.com/CRZX1337/Keybox-Generator-Telegram-Bot):**  A Telegram bot providing on-demand generation of secure keyboxes, aimed at improving digital security practices.
-*   **[Termux-Start-Script](https://github.com/CRZX1337/Termux-Start-Script):**  An automation script designed for rapid setup of Termux environments, streamlining initial configurations and tool installations.
+*   **[SlimePlus](https://github.com/CRZX1337/SlimePlus):** 🟢 High-performance Spigot/Paper plugin that overhauls slime physics with custom multipliers, removal of vanilla limits, and a beautiful Admin GUI.
 
 ### Technical Skills:
 
 *   **Programming Languages:** Python, C, C++, Java,Kotlin
 *   **Core Competencies:** Cybersecurity, Automation, Scripting, Web Development, Android Development, Kernel Development
-*   **Platforms & Technologies:** Linux, Open Source Software, Android,
+*   **Platforms & Technologies:** Windows, Linux, Open Source Software
 
 ### Connect:
 
