@@ -2,7 +2,7 @@
 
 # CRZX1337
 
-**Developer from Mainz, Germany**
+**Developer based in Germany**
 Building tools across automation, gaming, and the web.
 
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
@@ -60,12 +60,10 @@ I'm a self-taught developer focused on low-level systems, bot automation, and fu
 
 <img src="https://streak-stats.demolab.com?user=CRZX1337&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRZX1337&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 </div>
 
 ---
 
 <div align="center">
-<sub>Based in Mainz 🇩🇪 — always building something new.</sub>
+<sub>🇩🇪 Germany — always building something new.</sub>
 </div>
