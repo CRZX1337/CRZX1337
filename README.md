@@ -1,23 +1,71 @@
-## 👋 Welcome on my Profile 👋
+<![CDATA[<div align="center">
+
+# CRZX1337
+
+**Developer from Mainz, Germany**
+Building tools across automation, gaming, and the web.
 
 [![YouTube](https://img.shields.io/badge/YouTube-CryZuX-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
 [![Telegram](https://img.shields.io/badge/Telegram-@cryzux-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryzux)
 
-A developer based in Germany, focused on crafting efficient solutions through automation and exploring the landscape of cybersecurity and open source technologies.  Dedicated to building robust and impactful projects across various domains.
+</div>
 
-### Featured Projects:
+---
 
-*   **[SlimePlus](https://github.com/CRZX1337/SlimePlus):** 🟢 High-performance Spigot/Paper plugin that overhauls slime physics with custom multipliers, removal of vanilla limits, and a beautiful Admin GUI.
+## 🧠 About Me
 
-### Technical Skills:
+I'm a self-taught developer focused on low-level systems, bot automation, and full-stack web development. I work across multiple languages and platforms — from writing C++ tools and Minecraft plugins to building cross-platform desktop apps and Discord bots.
 
-*   **Programming Languages:** Python, C, C++, Java,Kotlin
-*   **Core Competencies:** Cybersecurity, Automation, Scripting, Web Development, Android Development, Kernel Development
-*   **Platforms & Technologies:** Windows, Linux, Open Source Software
+---
 
-### Connect:
+## 🚀 Featured Projects
 
-*   [YouTube](https://youtube.com/c/cryzux)
-*   [Telegram](https://t.me/cryzux)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**g30-vesc-dash**](https://github.com/CRZX1337/g30-vesc-dash) | LISP script integrating Ninebot G30 dashboards with VESC controllers — custom speed modes, light control, ESC temp display | Common Lisp |
+| [**exilium-tracker**](https://github.com/CRZX1337/exilium-tracker) | Sleek cross-platform strain tracker desktop app | Tauri v2 + Vite + JS |
+| [**SlimePlus**](https://github.com/CRZX1337/SlimePlus) | High-performance Spigot/Paper plugin overhauling slime physics with custom multipliers and Admin GUI | Java |
+| [**PC-Optimizer-PRO**](https://github.com/CRZX1337/PC-Optimizer-PRO) | Open-source Windows system utility for deep cleaning, resource management & privacy hardening | Shell |
+| [**DashTime**](https://github.com/CRZX1337/DashTime) | Cross-platform dart app | Dart / Flutter |
 
-Thank you for visiting my profile.  I am continuously expanding my skillset and portfolio.  Let's connect and collaborate on innovative projects.
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Tools & Platforms**
+
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![CRZX1337's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CRZX1337&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Based in Mainz 🇩🇪 — always building something new.</sub>
+</div>
+]]>
