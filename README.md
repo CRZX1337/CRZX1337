@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # CRZX1337
 
@@ -68,4 +68,3 @@ I'm a self-taught developer focused on low-level systems, bot automation, and fu
 <div align="center">
 <sub>Based in Mainz 🇩🇪 — always building something new.</sub>
 </div>
-]]>
