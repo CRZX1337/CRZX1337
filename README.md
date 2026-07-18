@@ -25,7 +25,7 @@ I'm a self-taught developer focused on low-level systems, bot automation, and fu
 | [**g30-vesc-dash**](https://github.com/CRZX1337/g30-vesc-dash) | LISP script integrating Ninebot G30 dashboards with VESC controllers — custom speed modes, light control, ESC temp display | Common Lisp |
 | [**exilium-tracker**](https://github.com/CRZX1337/exilium-tracker) | Sleek cross-platform strain tracker desktop app | Tauri v2 + Vite + JS |
 | [**SlimePlus**](https://github.com/CRZX1337/SlimePlus) | High-performance Spigot/Paper plugin overhauling slime physics with custom multipliers and Admin GUI | Java |
-| [**PC-Optimizer-PRO**](https://github.com/CRZX1337/PC-Optimizer-PRO) | Open-source Windows system utility for deep cleaning, resource management & privacy hardening | Shell |
+| [**Fetchy**](https://github.com/CRZX1337/Fetchy) | Privacy-focused Discord bot for high-quality media extraction — 4K video, MP3, auto link detection, Docker powered | Python |
 | [**DashTime**](https://github.com/CRZX1337/DashTime) | Cross-platform dart app | Dart / Flutter |
 
 ---
