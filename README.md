@@ -58,8 +58,9 @@ I'm a self-taught developer focused on low-level systems, bot automation, and fu
 
 <div align="center">
 
-![CRZX1337's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CRZX1337&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CRZX1337&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=CRZX1337&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRZX1337&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
