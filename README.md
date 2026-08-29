@@ -49,7 +49,8 @@ Ich baue Web-Apps, Bots, Tools und kleine Games. Von Discord-Bots über Browser-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRZX1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://img.shields.io/github/followers/CRZX1337?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCRZX1337&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Public Repos"/>
 </p>
 
 ---
