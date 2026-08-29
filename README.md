@@ -1,106 +1,81 @@
 <div align="center">
 
-# CRZX1337
-
-### **Full-Stack Developer | Automation & Gaming Tools | Germany**
-
-<a href="https://youtube.com/c/cryzux" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-CryZuX-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://t.me/cryzux" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-@cryzux-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://github.com/CRZX1337" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=CRZX1337&color=8A2BE2&style=flat-square&label=VISITORS)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey%2C+ich+bin+CRZX1337+%F0%9F%91%8B;Fachlagerist+by+day%2C+Builder+by+night;AI-Assisted+Dev+%7C+Gaming+%7C+Streaming+Tools;Immer+am+Prompten%2C+Committen%2C+Deployen" alt="Typing SVG" />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **self-taught developer** passionate about **low-level systems, automation, and full-stack development**. With experience across **C++, Java, Python, JavaScript, and more**, I build everything from **Minecraft plugins** and **Discord bots** to **cross-platform desktop apps** and **embedded systems tools**.
-
-- 🔧 **Currently working on**: Exilium Tracker v2 (Tauri + Rust rewrite)
-- 🎯 **Focus**: Performance optimization, reverse engineering, and user-friendly tooling
-- 🌍 **Based in**: Germany (🇩🇪)
-- 💬 **Ask me about**: C++, Game Modding, Discord Bots, Tauri, Web Development
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CRZX1337&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Standort-Mainz%2C%20DE-8B5CF6?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Fokus-AI%20%2B%20Fullstack-8B5CF6?style=flat&logo=github&logoColor=white" alt="Focus" />
+</p>
 
 ---
 
-## 🚀 **Featured Projects**
+### 🧭 Über mich
 
-<div align="center">
+Ich arbeite Vollzeit als **Fachlagerist** in der Logistik – und baue in meiner Freizeit an allem, was mit Code, Games und Streaming zu tun hat. Vom Discord-Bot über Browser-Extensions bis zum eigenen Webshop: ich probiere gerne alles selbst aus, meistens mit AI-Coding-Tools als Copilot an meiner Seite.
 
-| **Project** | **Description** | **Stack** | **Status** |
-|-------------|----------------|-----------|------------|
-| [g30-vesc-dash](https://github.com/CRZX1337/g30-vesc-dash) | LISP script integrating Ninebot G30 dashboards with VESC controllers - custom speed modes, light control, ESC temp display | ![Lisp](https://skillicons.dev/icons?i=lisp) | ![Stars](https://img.shields.io/github/stars/CRZX1337/g30-vesc-dash?style=flat-square&color=ffc0cb) ![Last Commit](https://img.shields.io/github/last-commit/CRZX1337/g30-vesc-dash?style=flat-square&color=9370DB) |
-| [exilium-tracker](https://github.com/CRZX1337/exilium-tracker) | Sleek cross-platform strain tracker desktop app | ![Tauri](https://skillicons.dev/icons?i=tauri) ![Vite](https://skillicons.dev/icons?i=vite) ![JS](https://skillicons.dev/icons?i=js) | ![Stars](https://img.shields.io/github/stars/CRZX1337/exilium-tracker?style=flat-square&color=ffc0cb) ![Last Commit](https://img.shields.io/github/last-commit/CRZX1337/exilium-tracker?style=flat-square&color=9370DB) |
-| [SlimePlus](https://github.com/CRZX1337/SlimePlus) | High-performance Spigot/Paper plugin overhauling slime physics with custom multipliers and Admin GUI | ![Java](https://skillicons.dev/icons?i=java) | ![Stars](https://img.shields.io/github/stars/CRZX1337/SlimePlus?style=flat-square&color=ffc0cb) ![Forks](https://img.shields.io/github/forks/CRZX1337/SlimePlus?style=flat-square&color=FF69B4) |
-| [Fetchy](https://github.com/CRZX1337/Fetchy) | Privacy-focused Discord bot for high-quality media extraction - 4K video, MP3, auto link detection | ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker) | ![Stars](https://img.shields.io/github/stars/CRZX1337/Fetchy?style=flat-square&color=ffc0cb) ![Last Commit](https://img.shields.io/github/last-commit/CRZX1337/Fetchy?style=flat-square&color=9370DB) |
-| [DashTime](https://github.com/CRZX1337/DashTime) | Cross-platform dart scoring app | ![Dart](https://skillicons.dev/icons?i=dart) ![Flutter](https://skillicons.dev/icons?i=flutter) | ![Stars](https://img.shields.io/github/stars/CRZX1337/DashTime?style=flat-square&color=ffc0cb) |
-
-</div>
+- 🛠️ Baue Web-Apps, Bots, Overlays, Tools & kleine Games
+- 🤖 Nutze AI-IDEs/Agents (Cursor, Copilot & Co.) als festen Teil meines Workflows
+- 🎮 Valorant, Minecraft, Assetto Corsa, BeamNG – Gaming ist Dauerbrenner
+- 📡 Baue an eigenen Twitch-Overlays, Bots und Streaming-Tools
+- 🌱 Entwickle Branding & Tools für legale Cannabis-Produkte (z. B. Strain-Tracker)
+- 📍 Mainz, Rheinland-Pfalz, Deutschland
 
 ---
 
-## 🛠️ **Tech Stack**
+### 🚀 Ausgewählte Projekte
 
-### **Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,swift,dart,lisp" alt="Languages" />
-</div>
+| Projekt | Beschreibung | Stack |
+|---|---|---|
+| [**Astral-ValoTool**](https://github.com/CRZX1337/Astral-ValoTool) | Valorant-Utility-Tool mit eigener GitHub-Pages-Demo | C# |
+| [**exilium-tracker**](https://github.com/CRZX1337/exilium-tracker) | Cross-Platform Strain-Tracker Desktop-App (Tauri v2 + Vite) | Rust · JS · Tauri |
+| [**exilium-strain-tracker**](https://github.com/CRZX1337/exilium-strain-tracker) | Web-basierter Strain-Tracker mit Live-Demo | JavaScript |
+| [**IPTV-Site**](https://github.com/CRZX1337/IPTV-Site) | Webseite/Frontend für IPTV-Streaming | JavaScript |
+| [**mobile-page-editor-lite**](https://github.com/CRZX1337/mobile-page-editor-lite) | Mobile-freundliches Userscript zum Live-Editieren von Webseiten inkl. Undo-Verlauf | JavaScript |
+| [**StreamKit**](https://github.com/CRZX1337/StreamKit) | Toolkit für Streaming-Setups | Swift |
 
-### **Frameworks & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tauri,vite,nodejs,discordjs,supabase,docker,flutter" alt="Frameworks" />
-</div>
-
-### **Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,github,git" alt="Platforms" />
-</div>
+> 💡 Weitere private Projekte (Discord-Bots, Game-Tools, Sites) laufen aktuell hinter verschlossenen Repos – bei Interesse einfach anschreiben.
 
 ---
 
-## 📊 **GitHub Stats**
+### 🧰 Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?user=CRZX1337&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=CRZX1337&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=CRZX1337" alt="Top Languages" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=CRZX1337&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" width="96%" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,cpp,java,lua,react,nodejs,svelte,html,css,tailwind,git,github,linux,windows,docker,vscode&theme=dark" />
+</p>
 
 ---
 
-## 🎯 **Currently Working On**
+### 📊 GitHub Stats
 
-- **exilium-tracker v2** - Rewriting in Rust for better performance and cross-platform support
-- **Fetchy** - Adding auto-transcoding for MP3 and improved media detection
-- **g30-vesc-dash** - Adding motor current visualization and temperature monitoring
-- **New Discord Bot** - VALORANT daily shop tracker with unofficial API
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CRZX1337&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CRZX1337&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
----
-
-## 📫 **Get In Touch**
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-CryZuX-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/cryzux)
-[![Telegram](https://img.shields.io/badge/Telegram-@cryzux-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cryzux)
-
-<sub>🇩🇪 Germany | Building tools for automation, gaming & web | Open to collaborations</sub>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRZX1337&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
+### 🎯 Woran ich gerade arbeite
+
+- Full-Stack Web- & iOS-PWA-Projekte
+- Discord/Twitch-Integrationen & Streaming-Overlays
+- Prompt Engineering für AI-Coding-Agents
+- Eigene Bots & Automatisierungen rund ums Gaming
+
+---
+
+### 📫 Kontakt
+
+<p align="center">
+  <a href="https://github.com/CRZX1337"><img src="https://img.shields.io/badge/GitHub-CRZX1337-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star.png" alt="Star" width="20" /> **Thanks for visiting!**
+  <sub>⚡ Gebaut mit viel Kaffee, AI-Agents und zu wenig Schlaf.</sub>
 </div>
