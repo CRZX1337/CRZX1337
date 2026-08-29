@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="Technologist" width="40" /> **About Me**
+## 👨‍💻 About Me
 
 I'm a **self-taught developer** passionate about **low-level systems, automation, and full-stack development**. With experience across **C++, Java, Python, JavaScript, and more**, I build everything from **Minecraft plugins** and **Discord bots** to **cross-platform desktop apps** and **embedded systems tools**.
 
