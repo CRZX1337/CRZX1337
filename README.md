@@ -70,8 +70,8 @@ I'm a **self-taught developer** passionate about **low-level systems, automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?user=CRZX1337&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=CRZX1337&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?user=CRZX1337&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=CRZX1337&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=CRZX1337" alt="Top Languages" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=CRZX1337&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" width="96%" />
 
