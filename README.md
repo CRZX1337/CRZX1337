@@ -42,7 +42,6 @@ I'm a **self-taught developer** passionate about **low-level systems, automation
 | [SlimePlus](https://github.com/CRZX1337/SlimePlus) | High-performance Spigot/Paper plugin overhauling slime physics with custom multipliers and Admin GUI | ![Java](https://skillicons.dev/icons?i=java) | ![Stars](https://img.shields.io/github/stars/CRZX1337/SlimePlus?style=flat-square&color=ffc0cb) ![Forks](https://img.shields.io/github/forks/CRZX1337/SlimePlus?style=flat-square&color=FF69B4) |
 | [Fetchy](https://github.com/CRZX1337/Fetchy) | Privacy-focused Discord bot for high-quality media extraction - 4K video, MP3, auto link detection | ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker) | ![Stars](https://img.shields.io/github/stars/CRZX1337/Fetchy?style=flat-square&color=ffc0cb) ![Last Commit](https://img.shields.io/github/last-commit/CRZX1337/Fetchy?style=flat-square&color=9370DB) |
 | [DashTime](https://github.com/CRZX1337/DashTime) | Cross-platform dart scoring app | ![Dart](https://skillicons.dev/icons?i=dart) ![Flutter](https://skillicons.dev/icons?i=flutter) | ![Stars](https://img.shields.io/github/stars/CRZX1337/DashTime?style=flat-square&color=ffc0cb) |
-| [PC-Optimizer-PRO](https://github.com/CRZX1337/PC-Optimizer-PRO) | Open-source system utility for Windows performance optimization | ![Windows](https://skillicons.dev/icons?i=windows) | ![Stars](https://img.shields.io/github/stars/CRZX1337/PC-Optimizer-PRO?style=flat-square&color=ffc0cb) |
 
 </div>
 
